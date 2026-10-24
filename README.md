@@ -13,7 +13,7 @@ A responsive browser game concept built for GitHub Pages, with Supabase providin
 - The highest total score wins. Ties are broken by Round 3 score; a remaining tie is a draw.
 - Choices and points are written by SQL functions; browser clients are not granted direct write access to game tables.
 
-## Publish like `tulsaphp.github.io/race-planner`
+## Publish like `tulsaphp.github.io/neural-arena`
 
 ### Part A — create the free multiplayer backend
 
